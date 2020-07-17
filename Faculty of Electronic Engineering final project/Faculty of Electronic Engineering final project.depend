@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589234309 source:c:\users\abdullah zahra\documents\faculty of electronic engineering final project\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+
